@@ -18,6 +18,7 @@ This project uses [Carthage](https://github.com/Carthage/Carthage) to manage dep
 
 ## Getting Started
 
+
 1. Clone the repository: `git clone https://github.com/watson-developer-cloud/speech-to-text-swift.git`
 2. Build the dependencies: `carthage update --platform iOS`. 
 3. Copy `CredentialsExample.swift` to `Credentials.swift`: `cp CredentialsExample.swift Credentials.swift`
